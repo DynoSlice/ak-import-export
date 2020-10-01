@@ -1,21 +1,18 @@
-<IfModule mod_rewrite.c>
-    <IfModule mod_negotiation.c>
-        Options -MultiViews -Indexes
-    </IfModule>
+<IfModule mod_rewrite.c> 
+    <IfModule mod_negotiation.c> 
+        Options -MultiViews 
+    </IfModule> 
 
-    RewriteEngine On
+    RewriteEngine On 
+    RewriteBase /
+    RewriteCond% {HTTP: Authorization} ^ (. *) 
+    RewriteRule. * - [e = HTTP_AUTHORIZATION:% 1] 
 
-    # Handle Authorization Header
-    RewriteCond %{HTTP:Authorization} .
-    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+    # Rediriger les barres obliques de fin ... 
+    RewriteRule ^ (. *) / $ / $ 1 [L, R = 301] 
 
-    # Redirect Trailing Slashes If Not A Folder...
-    RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteCond %{REQUEST_URI} (.+)/$
-    RewriteRule ^ %1 [L,R=301]
-
-    # Handle Front Controller...
-    RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteCond %{REQUEST_FILENAME} !-f
-    RewriteRule ^ index.php [L]
+    # Handle Contrôleur frontal ... 
+    RewriteCond% {REQUEST_FILENAME}! -D 
+    RewriteCond% {REQUEST_FILENAME}! -F 
+    RewriteRule ^ /index.php [L] 
 </IfModule>

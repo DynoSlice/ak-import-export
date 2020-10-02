@@ -108,7 +108,7 @@
                         <div class="contact-address">
                             <h4>Address</h4>
                             <p>Phone: <a href="callto:01744430440">+661 41 55 94</a></p>
-                            <p>Email: <a href="mailto:backpiper.com@gmail.com">backpiper.com@gmail.com</a></p>
+                            <p>Email: <a href="mailto:backpiper.com@gmail.com">service-clientele@ak-import-export.com</a></p>
                             <address>
                                 Bureau  :  Sig Madina Conakry Guinée.
                             </address>

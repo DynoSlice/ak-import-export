@@ -36,7 +36,7 @@
                         <p>AK-import-export est une société du groupe AK.</p>
                         <ul>
                             <li><i class="fa fa-phone"></i> <a href="callto:+8801911854378">+661 41 55 94</a></li>
-                            <li><i class="fa fa-envelope"></i> <a href="mailto:backpiper.com@gmail.com">backpiper.com@gmail.com</a></li>
+                            <li><i class="fa fa-envelope"></i> <a href="mailto:backpiper.com@gmail.com">service-clientele@ak-import-export.com</a></li>
                             <li><i class="fa fa-map-marker"></i>Sig Madina Conakry guinée.</li>
                         </ul>
                     </div>

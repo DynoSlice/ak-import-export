@@ -33,7 +33,7 @@ class sendEmail extends Mailable
      */
     public function build()
     {
-        return $this->from('deluxes517@gmail.com', 'AK Import-Export')
+        return $this->from('service-clientele@ak-import-export.com', 'AK Import-Export')
             ->subject('Confirmation réception de votre demande')
             ->view('mail.mail');
     }

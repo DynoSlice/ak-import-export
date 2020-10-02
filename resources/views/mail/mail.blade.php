@@ -285,7 +285,7 @@
                             </tr><tr><td valign="top" class="rnb-container-padding" bgcolor="" style="background-color: ;" align="left">
                                     <table width="100%" cellpadding="0" border="0" align="center" cellspacing="0"><tbody><tr><td valign="top" align="center">
                                                 <table cellpadding="0" border="0" align="center" cellspacing="0" class="logo-img-center"><tbody><tr><td valign="middle" align="center">
-                                                            <div style="border-top:0px None #000;border-right:0px None #000;border-bottom:0px None #000;border-left:0px None #000;display:inline-block; " cellspacing="0" cellpadding="0" border="0"><div><img width="250" vspace="0" hspace="0" border="0" alt="Sendinblue" style="float: left;max-width:250px;display:block;" class="rnb-logo-img" src="{{ $logo = $message->embed(public_path() . '/img/logoAKnoir.png') }}"></div></div></td>
+                                                            <div style="border-top:0px None #000;border-right:0px None #000;border-bottom:0px None #000;border-left:0px None #000;display:inline-block; " cellspacing="0" cellpadding="0" border="0"><div><img width="250" vspace="0" hspace="0" border="0" alt="Sendinblue" style="float: left;max-width:250px;display:block;" class="rnb-logo-img" src="/img/logoAKnoir.png"></div></div></td>
                                                     </tr></tbody></table><table cellpadding="0" border="0" align="center" cellspacing="0" class="logo-img-center"></table></td>
                                         </tr></tbody></table></td>
                             </tr><tr><td height="30" style="font-size:1px; line-height:1px;"> </td>

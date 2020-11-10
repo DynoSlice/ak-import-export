@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
    @section('content')
-
+   <meta name="description" content="Le contrat de confiance avant tout. Ak import-export vous propose une gamme de service pour le transport de vos bien de l'étranger vers la guinée" />
 
     <header class="top-area" id="home">
         <div class="top-area-bg" data-stellar-background-ratio="0.6"></div>

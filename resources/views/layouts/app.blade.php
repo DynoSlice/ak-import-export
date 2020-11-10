@@ -5,8 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Transportation & Agency Template is a simple Smooth transportation and Agency Based Template" />
-    <meta name="keywords" content="Portfolio, Agency, Onepage, Html, Business, Blog, Parallax" />
+    <meta name="description" content="Ak import-Export" />
 
     <!--====== Titre de la page ======-->
     <title>AK</title>
@@ -33,12 +32,20 @@
 
     <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="crossorigin=""></script>
     
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-169344018-2"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
 
+            gtag('config', 'UA-169344018-2');
+        </script>
     
 </head>
 
 <body class="home-one">
-
+    <meta>
     
     <!-- contenu de la page -->
     @yield('content')
@@ -94,15 +101,7 @@
             .openPopup();
         
         </script>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-169344018-2"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-
-            gtag('config', 'UA-169344018-2');
-        </script>
+        
 </body>
 
 </html>

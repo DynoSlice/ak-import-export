@@ -111,7 +111,7 @@
                     <div class="row flex-v-center">
                         <div class="col-md-10 col-md-offset-1">
                             <div class="welcome-text text-center">
-                                <h2 style="font-size: 60px;">TRANSPORT MARITIME</h2>
+                                <h2 style="font-size: 60px;">TRANSPORT MARITIME EUROPE-GUINEE</h2>
                                 <p>Envoyer un colis en Guinée. Nous organisons le transport de vos colis par groupage maritime.</p>
                                 <div class="home-button">
                                     <a href="{{url('transport-maritime')}}">Notre service</a>
@@ -133,7 +133,7 @@
                 <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
                     <div class="single-blog wow fadeInUp" data-wow-delay="0.2s">
                         <div class="blog-image">
-                            <img src="/img/acceuil/card/card_bateau.jpg" alt="">
+                            <img src="/img/acceuil/card/card_bateau.jpg" alt="bateau ak import-export">
                         </div>
                         <div class="blog-details text-center">
                             <div class="blog-meta"><a href="#"><i class="fa fa-ship"></i></a></div>
@@ -146,20 +146,20 @@
                 <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
                     <div class="single-blog wow fadeInUp" data-wow-delay="0.3s">
                         <div class="blog-image">
-                            <img src="/img/acceuil/card/card_plane.jpg" alt="">
+                            <img src="/img/acceuil/card/card_plane.jpg" alt="matériel ak import-export">
                         </div>
                         <div class="blog-details text-center">
                             <div class="blog-meta"><a href="#"><i class="fa fa-tags"></i></a></div>
                             <h3><a href="single-blog.html">Vente</a></h3>
                             <p>AK vous propose du matériel, véhicule neuf et d'occasion pour particulier ou professionnel.</p>
-                            <a href="{{url('transport-aerien')}}" class="bouton_blue">Lire la suite</a>
+                            <a href="{{url('vente')}}" class="bouton_blue">Lire la suite</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
                     <div class="single-blog wow fadeInUp" data-wow-delay="0.4s">
                         <div class="blog-image">
-                            <img src="/img/acceuil/card/card_camion.jpg" alt="">
+                            <img src="/img/acceuil/card/card_camion.jpg" alt="camion ak import-export">
                         </div>
                         <div class="blog-details text-center">
                             <div class="blog-meta"><a href="#"><i class="fa fa-truck"></i></a></div>
@@ -248,7 +248,7 @@
                     <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
                         <div class="service-content wow fadeIn">
                             <h2>Nous proposons une solution logistique rapide et puissante</h2>
-                            <p>AK c’est surtout un service sur mesure et adapté à n’importe quelle problématique client, le service de livraison de grosse marchandise la plus rapide de Guinée.</p>
+                            <p>AK c’est surtout <b> un service sur mesure </b> et adapté à n’importe quelle problématique client, le service de livraison de grosse marchandise la plus rapide de Guinée.</p>
                             <a href="{{url('nos-service')}}">Lire la suite <i class="fa fa-angle-right"></i></a>
                            
                         </div>
@@ -292,7 +292,6 @@
                                 <div class="service-details">
                                     <h4>Entrepôt</h4>
                                     <p>Bessoin de stcoker votre matériel ou véhicule en France ou en Guinée, faite appel a nous !!.</p>
-                                    <a href="#">Lire la suite</a>
                                 </div>
                             </div>
                             <div class="single-service">
@@ -304,7 +303,6 @@
                                 <div class="service-details">
                                     <h4>Fret routier</h4>
                                     <p>Spécialiste du transport routier national, nous pouvons livrer votre marchandise partout dans le pays.</p>
-                                    <a href="{{url('transport-routier')}}">Lire la suite</a>
                                 </div>
                             </div>
                             <div class="single-service">
@@ -316,7 +314,6 @@
                                 <div class="service-details">
                                     <h4>Fret maritime</h4>
                                     <p>Nous assurons le transport de tous vos biens neufs ou d’occasion en groupage ou complet et vos véhicules en Guinée.</p>
-                                    <a href="{{url('transport-maritime')}}">Lire la suite</a>
                                 </div>
                             </div>
                             <div class="single-service">
@@ -328,7 +325,6 @@
                                 <div class="service-details">
                                     <h4>Vente</h4>
                                     <p>AK vous propose du matériel, véhicule neuf et d'occasion pour particulier ou professionnel.</p>
-                                    <a href="{{url('vente')}}">Lire la suite</a>
                                 </div>
                             </div>
                         </div>

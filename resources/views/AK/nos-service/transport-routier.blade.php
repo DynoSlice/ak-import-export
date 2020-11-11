@@ -88,13 +88,13 @@
                     </p>
                     <br>
                     <ul>
-                        <li class="lileft"><i class="fa fa-check checkli"></i> nous regroupons la marchandise depuis notre l’entrepôt situez a Conakry pour la stocker puis la conteneuriser.</li>
-                        <li class="lileft"><i class="fa fa-check checkli"></i> nous procédons à leur expédition à travers toute la guinée.</li>
-                        <li class="lileft"><i class="fa fa-check checkli"></i> organiser leur livraison à destination: récupérer les marchandises à leur arrivée à destination, dépoter les conteneur ou dégrouper les palettes, livrer les marchandises.</li>
+                        <li class="lileft"><i class="fa fa-check checkli"></i> nous regroupons la marchandise depuis notre l’entrepôt situez a Conakry pour la <b>stocker puis la conteneuriser.</b></li>
+                        <li class="lileft"><i class="fa fa-check checkli"></i> nous procédons à leur expédition à travers <b>toute la guinée.</b></li>
+                        <li class="lileft"><i class="fa fa-check checkli"></i> <b>organiser leur livraison à destination:</b> récupérer les marchandises à leur arrivée à destination, dépoter les conteneur ou dégrouper les palettes, livrer les marchandises.</li>
                         <li class="fa fa-book-open"></li>
                     </ul>
                 </div>
-                <img src="/img/service/transport_camion.jpg">
+                <img src="/img/service/transport_camion.jpg" alt="camion ak import-export">
                 @include('layouts.partials.brochure')
             </div>
         </div>

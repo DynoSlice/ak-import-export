@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Ak import-Export, Service de transport rapide de marchandises vers la Guinée Conakry. Envoyez aussi vos colis et effets personnels avec AK Import-Export" />
+    <meta name="description" content="Ak import-Export, Service de transport rapide de marchandises vers la Guinée Conakry. Envoyez aussi vos colis et effets personnels avec AK Import-Export." />
 
     <!--====== Titre de la page ======-->
     <title>Transport maritime Guinée | Fret Guinée - AK import-Export</title>
@@ -60,7 +60,7 @@
             <div class="row flex-v-center">
                 <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
                     <div class="welcome-text text-center">
-                        <h1>Transport maritime</h1>
+                        <h1>Transport maritime EUROPE-GUINEE</h1>
                         <ul class="page-location">
                             <li><a>Transport</a></li>
                             <li>/</li>
@@ -85,19 +85,19 @@
                 <div class="area-title text-center wow fadeIn">
                     <h3 class="h3left">Transport maritime</h3>
                     <p class="pleft">Le transport maritime fait partie intégrante du processus de transit surtout quand l’aspect conteneurisation est important. 
-                        Grâce à notre expérience et à notre plateforme de consolidation, AK collecte pour vous vos commandes 
+                        Grâce à notre expérience et à notre plateforme de consolidation, <b> AK collecte pour vous vos commandes </b> 
                         faites auprès des différents fournisseurs et les rassemble dans un conteneur sécurisé. Vous souhaitez optimiser vos 
                         chargements afin de réduire vos coûts de transports, faites appel à nos services.
                     </p>
                     <br>
                     <ul>
-                        <li class="lileft"><i class="fa fa-check checkli"></i> nous regroupons la marchandise depuis l’entrepôt d’un fournisseur pour la stocker puis la conteneuriser.</li>
-                        <li class="lileft"><i class="fa fa-check checkli"></i> nous procédons à leur expédition (réserver auprès des transporteurs, transporter jusqu’aux ports, dédouaner et établir les documents d’exportation).</li>
-                        <li class="lileft"><i class="fa fa-check checkli"></i> organiser leur livraison à destination: récupérer les marchandises à leur arrivée à destination, dépoter les conteneur ou dégrouper les palettes, livrer les marchandises.</li>
+                        <li class="lileft"><i class="fa fa-check checkli"></i> <b>nous regroupons la marchandise</b> depuis l’entrepôt d’un fournisseur pour la stocker puis la conteneuriser.</li>
+                        <li class="lileft"><i class="fa fa-check checkli"></i> <b>nous procédons à leur expédition</b> (réserver auprès des transporteurs, transporter jusqu’aux ports, dédouaner et établir les documents d’exportation).</li>
+                        <li class="lileft"><i class="fa fa-check checkli"></i> <b>organiser leur livraison à destination</b>: récupérer les marchandises à leur arrivée à destination, dépoter les conteneur ou dégrouper les palettes, livrer les marchandises.</li>
                         <li class="fa fa-book-open"></li>
                     </ul>
                 </div>
-                <img src="/img/service/maritime_port.png">
+                <img src="/img/service/maritime_port.png" alt="bateau ak import-export">
                 @include('layouts.partials.brochure')
             </div>
         </div>

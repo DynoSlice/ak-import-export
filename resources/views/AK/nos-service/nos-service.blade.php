@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Ak import-Export, découvrez notre gamme variée de services destinés aux particuliers et professionnels" />
+    <meta name="description" content="Ak import-Export, découvrez notre gamme variée de services destinés aux particuliers et professionnels." />
 
     <!--====== Titre de la page ======-->
     <title>AK import-Export - découvrez nos services, du transport de marchandises à la manutention</title>
@@ -85,8 +85,9 @@
         <div class="row">
             <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
                 <div class="service-content wow fadeIn">
-                    <h2>UNE LOGISTIQUE RAPIDE ET PUISSANTE</h2>
-                    <p>En tant que transitaire et organisateur de transports, AK met son savoir faire au service de votre entreprise, nous proposons toute une gamme de services afin de répondre à vos demandes.</p>
+                    
+                    <h2>Une logistique rapide et puissante</h2>
+                    <p>En tant que transitaire et organisateur de transports, AK met son <b>savoir faire au service de votre entreprise</b>, nous proposons toute une gamme de services afin de répondre à vos demandes.</p>
                 </div>
             </div>
             <div class="col-md-8 col-lg-8 col-sm-12 col-xs-12">

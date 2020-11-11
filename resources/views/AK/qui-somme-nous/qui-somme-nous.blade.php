@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Ak import-Export, Une entreprise qui a gagner le coeur des guinéen. découvrer notre histoire et notre parcours professionnel" />
+    <meta name="description" content="Ak import-Export, Une entreprise qui a gagner le coeur des guinéen. découvrer notre histoire et notre parcours professionnel." />
 
     <!--====== Titre de la page ======-->
     <title>AK import-export découvrer notre histoire et notre parcours</title>
@@ -79,7 +79,7 @@
             <div class="col-md-6 col-lg-6 col-md-offset-3 col-lg-offset-3 col-sm-12 col-xs-12">
                 <div class="area-title text-center wow fadeIn">
                     <h2>AK Import-Export</h2>
-                    <p>est un transitaire-organisateur de transport international au service des importateurs et exportateurs des flux France-Guinée</p>
+                    <p>est un transitaire-organisateur de transport international au <b>service des importateurs et exportateurs</b> des flux France-Guinée</p>
                 </div>
             </div>
         </div>
@@ -90,14 +90,15 @@
                         <p><span style="font-size: medium;"><strong> <em> AK Import-Export </em> </strong> 
                             est une société spécialisée dans le transport de marchandise (tout type de biens) par conteneurs 
                             à destination de la Guinée. Notre expérience et notre professionnalisme sont avant tout 
-                            aux services de nos clients. Nous organisons la livraison à bon port de vos biens et effets personnels à 
+                            aux <b>services de nos clients.</b> Nous organisons la livraison à <b>bon port</b> de vos biens et effets personnels à 
                             destination de la Guinée. Nos domaines de prédilection sont les suivants : </span></p>
                             <ul>
-                                <li style="font-size: medium; list-style: square; margin: 5%;">Transport de véhicules de la France vers la Guinée</li>
-                                <li style="font-size: medium; list-style: square; margin: 5%;">Groupage maritime départ de la France vers la Guinée</li>
-                                <li style="font-size: medium; list-style: square; margin: 5%;">Conseil en transport et logistique</li>
-                                <li style="font-size: medium; list-style: square; margin: 5%;">Achat vente de materiels de manutention</li>
-                                <li style="font-size: medium; list-style: square; margin: 5%;">Autres Services : achat vente et location de véhicules</li>
+                                <li style="font-size: medium; list-style: square; margin: 5%;"><b>Transport de véhicules</b> de la France vers la Guinée.</li>
+                                <li style="font-size: medium; list-style: square; margin: 5%;"><b>Groupage maritime</b> départ de la France vers la Guinée.</li>
+                                <li style="font-size: medium; list-style: square; margin: 5%;"><b>Transport</b> dans toute la guinée.</li>
+                                <li style="font-size: medium; list-style: square; margin: 5%;"><b>Conseil</b> en transport et logistique.</li>
+                                <li style="font-size: medium; list-style: square; margin: 5%;"><b>Achat vente</b> de materiels.</li>
+                                <li style="font-size: medium; list-style: square; margin: 5%;">Autres Services : <b>achat vente et location de véhicules.</b></li>
                             </ul>
                     </div>
                 </div>

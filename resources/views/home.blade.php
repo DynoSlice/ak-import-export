@@ -33,7 +33,7 @@
                     <div class="row flex-v-center">
                         <div class="col-md-10 col-md-offset-1">
                             <div class="welcome-text text-center">
-                                <h1>Transport dans toute la Guinée</h1>
+                                <h2 style="font-size: 60px;">Transport dans toute la Guinée</h2>
                                 <p>De 1 gramme à 24 tonnes, la solution pour le transport, routier de vos marchandises
                                 </p>
                                 <div class="home-button">
@@ -45,12 +45,12 @@
                     </div>
                 </div>
             </div>
-            {{-- <div class="welcome-single-slide slider-bg-three">
+            <!-- {{-- <div class="welcome-single-slide slider-bg-three">
                 <div class="container">
                     <div class="row flex-v-center">
                         <div class="col-md-10 col-md-offset-1">
                             <div class="welcome-text text-center">
-                                <h1>TRANSPORT AERIEN</h1>
+                                <h2>TRANSPORT AERIEN</h2>
                                 <p>Pour vos envois urgents, nous vous proposons des tarifs très compétitifs négociés auprès des Compagnies Aériennes.</p>
                                 <div class="home-button">
                                     <a href="{{url('transport-aerien')}}">Notre service</a>
@@ -60,13 +60,13 @@
                         </div>
                     </div>
                 </div>
-            </div> --}}
+            </div> --}} -->
             <div class="welcome-single-slide slider-bg-four">
                 <div class="container">
                     <div class="row flex-v-center">
                         <div class="col-md-10 col-md-offset-1">
                             <div class="welcome-text text-center">
-                                <h1>TRANSPORT MARITIME</h1>
+                                <h2 style="font-size: 60px;">TRANSPORT MARITIME</h2>
                                 <p>Envoyer un colis en Guinée. Nous organisons le transport de vos colis par groupage maritime.</p>
                                 <div class="home-button">
                                     <a href="{{url('transport-maritime')}}">Notre service</a>

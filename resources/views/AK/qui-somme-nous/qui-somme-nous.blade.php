@@ -14,7 +14,7 @@
             <div class="row flex-v-center">
                 <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
                     <div class="welcome-text text-center">
-                        <h2>QUI SOMMES-NOUS</h2>
+                        <h1>QUI SOMMES-NOUS</h1>
                         <ul class="page-location">
                             <li><a href="#">AK</a></li>
                             <li>/</li>

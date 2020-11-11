@@ -18,7 +18,7 @@
                         <ul class="page-location">
                             <li><a>Transport</a></li>
                             <li>/</li>
-                            <li><a>Client</a></li>
+                            <li><a>guinée conakry</a></li>
                         </ul>
                     </div>
                 </div>

@@ -14,11 +14,11 @@
             <div class="row flex-v-center">
                 <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
                     <div class="welcome-text text-center">
-                        <h2>Contact</h2>
+                        <h1>Contact</h1>
                         <ul class="page-location">
                             <li><a href="#">Contact</a></li>
                             <li>/</li>
-                            <li><a href="#">Client</a></li>
+                            <li><a href="#">Ak guinée conakry</a></li>
                         </ul>
                     </div>
                 </div>

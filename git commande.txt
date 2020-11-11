@@ -1,0 +1,9 @@
+git add .
+
+git commit -m "mettre un texte"
+
+git push origin master
+
+//sur le serveur :
+
+git pull

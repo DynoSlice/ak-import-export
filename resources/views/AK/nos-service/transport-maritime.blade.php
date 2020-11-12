@@ -6,7 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Ak import-Export, Service de transport rapide de marchandises vers la Guinée Conakry. Envoyez aussi vos colis et effets personnels avec AK Import-Export." />
+    <meta name="robots" content="index">
+    <meta name="author" content="AK import-Export service informatique" />
 
+    <meta name="copyright" content="Ak import-Export" />
     <!--====== Titre de la page ======-->
     <title>Transport maritime Guinée | Fret Guinée - AK import-Export</title>
 
@@ -60,7 +63,7 @@
             <div class="row flex-v-center">
                 <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
                     <div class="welcome-text text-center">
-                        <h1>Transport maritime EUROPE-GUINEE</h1>
+                        <h1>Transport maritime EUROPE-Guinée</h1>
                         <ul class="page-location">
                             <li><a>Transport</a></li>
                             <li>/</li>

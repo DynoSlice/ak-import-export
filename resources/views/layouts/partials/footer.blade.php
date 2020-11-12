@@ -45,9 +45,9 @@
                     <div class="single-footer-widget list-widget">
                         <h3>Transport</h3>
                         <ul>
-                            <li><a href="{{url('transport-maritime')}}">Transport maritime</a></li>
+                            <li><a href="{{url('transport-maritime-Europe-Guinee')}}">Transport maritime</a></li>
                             {{-- <li><a href="{{url('transport-aerien')}}">ransport aérien</a></li> --}}
-                            <li><a href="{{url('transport-routier')}}">Transport routier</a></li>
+                            <li><a href="{{url('transport-routier-Guinee')}}">Transport routier</a></li>
                         </ul>
                     </div>
                 </div>
@@ -56,9 +56,9 @@
                         <h3>Liens Rapides</h3>
                         <ul>
                             <li><a href="{{url('home')}}">Acceuil</a></li>
-                            <li><a href="{{url('qui-somme-nous')}}">Qui Somme Nous</a></li>
-                            <li><a href="{{url('nos-service')}}">Nos Service</a></li>
-                            <li><a href="{{url('vente')}}">Vente</a></li>
+                            <li><a href="{{url('qui-somme-nous-ak')}}">Qui Somme Nous</a></li>
+                            <li><a href="{{url('nos-service-guinee')}}">Nos Service</a></li>
+                            <li><a href="{{url('vente-materiel-Guinee')}}">Vente</a></li>
                             {{-- <li><a href="{{url('devis')}}">Devis</a></li> --}}
                             <li><a href="{{url('contact')}}">Contact</a></li>
                         </ul>

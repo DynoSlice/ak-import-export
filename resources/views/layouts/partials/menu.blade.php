@@ -11,7 +11,7 @@
     <nav class="navbar">
         <div class="container">
             <div class="navbar-header">
-                <a href="{{url('home')}}" class="navbar-brand"><img src="/img/logoAK.png" alt="logo"></a>
+                <a href="{{url('')}}" class="navbar-brand"><img src="/img/logoAK.png" alt="logo"></a>
             </div>
             <div class="search-and-language-bar pull-right">
                 <ul>
@@ -32,19 +32,19 @@
             </div>
             <div id="main-nav" class="stellarnav">
                 <ul id="nav" class="nav navbar-nav">
-                    <li><a href="{{url('home')}}">Acceuil</a>
+                    <li><a href="{{url('')}}">Acceuil</a>
                     </li>
-                    <li><a href="{{url('qui-somme-nous')}}">QUI SOMMES-NOUS</a>
+                    <li><a href="{{url('qui-somme-nous-ak')}}">QUI SOMMES-NOUS</a>
                         {{-- <ul>
                             <li><a href="{{url('notre-mission')}}">Notre Mission</a></li>
                         </ul> --}}
                     </li>
-                    <li><a href="{{url('nos-service')}}">Nos Service</a>
+                    <li><a href="{{url('nos-service-guinee')}}">Nos Service</a>
                         <ul>
-                            <li><a href="{{url('transport-maritime')}}">Transport maritime</a></li>
+                            <li><a href="{{url('transport-maritime-Europe-Guinee')}}">Transport maritime</a></li>
                             {{-- <li><a href="{{url('transport-aerien')}}">Transport aérien</a></li> --}}
-                            <li><a href="{{url('transport-routier')}}">Transport routier</a></li>
-                            <li><a href="{{url('vente')}}">Vente</a></li>
+                            <li><a href="{{url('transport-routier-Guinee')}}">Transport routier</a></li>
+                            <li><a href="{{url('vente-materiel-Guinee')}}">Vente</a></li>
                         </ul>
                     </li>
                     {{-- <li><a href="blog.html">Blog</a>

@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Ak import-Export, Une entreprise qui a gagner le coeur des guinéen. découvrer notre histoire et notre parcours professionnel." />
-
+    <meta name="robots" content="index">
     <!--====== Titre de la page ======-->
     <title>AK import-export découvrer notre histoire et notre parcours</title>
 
@@ -121,7 +121,7 @@
                                 <p>2006</p>
                             </div>
                             <h4>CREATION DU SERVICE DE TRANSPORT</h4>
-                            <p>En 2006, AK Import-Export s'agrandit avec la creation du groupe AKph.</p>
+                            <p>En 2006, AK Import-Export s'agrandit avec la creation du groupe AK.</p>
                         </div>
                         <div class="single-history">
                             <div class="history-year">

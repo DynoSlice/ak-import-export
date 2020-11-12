@@ -22,16 +22,16 @@ Route::get('/', function () {
 //     return view('AK/qui-somme-nous/notre-mission');
 // });
 
-Route::get('qui-somme-nous', function () {
+Route::get('qui-somme-nous-ak', function () {
     return view('AK/qui-somme-nous/qui-somme-nous');
 });
 
 /**page service */
-Route::get('nos-service', function () {
+Route::get('nos-service-guinee', function () {
     return view('AK/nos-service/nos-service');
 });
 
-Route::get('transport-maritime', function () {
+Route::get('transport-maritime-Europe-Guinee', function () {
     return view('AK/nos-service/transport-maritime');
 });
 
@@ -39,16 +39,16 @@ Route::get('transport-maritime', function () {
 //     return view('AK/nos-service/transport-aerien');
 // });
 
-Route::get('transport-routier', function () {
+Route::get('transport-routier-Guinee', function () {
     return view('AK/nos-service/transport-routier');
 });
 
-Route::get('consulting', function () {
-    return view('AK/nos-service/consulting');
-});
+// Route::get('consulting', function () {
+//     return view('AK/nos-service/consulting');
+// });
 
 /**page Vente */
-Route::get('vente', function () {
+Route::get('vente-materiel-Guinee', function () {
     return view('AK/vente/vente');
 });
 /**page contact et devis */
@@ -60,8 +60,15 @@ Route::get('contact', function () {
 //     return view('AK/devis-en-ligne/devis');
 // });
 
+//Post page contact
 Route::post('/contact', 'ContactController@store');
 
 Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
+//Route::get('/home', 'HomeController@index')->name('home');
+
+//Route partie admin du site.
+
+Route::get('homeDashboard', function () {
+    return view('dashboard/viewsdashboard/homeDashboard');
+});

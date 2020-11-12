@@ -6,7 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Vous pouvez également nous contacter par email en remplissant le formulaire, ou par téléphone, ou vous rendre directement sur place." />
+    <meta name="robots" content="index">
+    <meta name="author" content="AK import-Export service informatique" />
 
+    <meta name="copyright" content="Ak import-Export" />
     <!--====== Titre de la page ======-->
     <title>Service Client AK import-Export</title>
 

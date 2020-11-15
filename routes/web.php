@@ -65,10 +65,6 @@ Route::post('/contact', 'ContactController@store');
 
 Auth::routes();
 
-//Route::get('/home', 'HomeController@index')->name('home');
-
 //Route partie admin du site.
+Route::get('/homeDashboard', 'HomeController@index')->name('homeDashboard');
 
-Route::get('homeDashboard', function () {
-    return view('dashboard/viewsdashboard/homeDashboard');
-});

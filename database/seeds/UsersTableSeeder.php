@@ -16,6 +16,8 @@ class UsersTableSeeder extends Seeder
             'name' => 'alpha',
             'email' => 'alphakaba5@gmail.com',
             'password' => bcrypt('user'),
+            'nom' => 'kaba',
+            'prenom' => 'alpha',
         ]);
     }
 }

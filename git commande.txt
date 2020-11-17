@@ -10,3 +10,6 @@ git pull
 
 //fussionner les depot
 git stash push --include-untracked
+
+//serveur ionos commande laravel
+/usr/bin/php7.4-cli artisan migrate:refresh --seed

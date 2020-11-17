@@ -14,7 +14,7 @@
           <img src="/adminlte/img/default.png" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block">{{ Auth::user()->nom }} {{ Auth::user()->prenom }}</a>
+          <a href="" class="d-block">{{ Auth::user()->nom }} {{ Auth::user()->prenom }}</a>
         </div>
       </div>
 

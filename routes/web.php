@@ -10,9 +10,6 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-use App\Mail\sendEmail;
-use Illuminate\Support\Facades\Mail;
-use Illuminate\Mail\Mailable;
 
 Route::get('/', function () {
     return view('home');
@@ -63,7 +60,7 @@ Route::get('contact', function () {
 //Post page contact
 Route::post('/contact', 'ContactController@store');
 
-Auth::routes();
+//Auth::routes();
 
 //Route partie admin du site.
 Route::get('/homeDashboard', 'HomeController@index')->name('homeDashboard');

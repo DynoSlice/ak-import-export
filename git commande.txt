@@ -13,3 +13,6 @@ git stash push --include-untracked
 
 //serveur ionos commande laravel
 /usr/bin/php7.4-cli artisan migrate:refresh --seed
+
+//rollback si le migrate affiche l'erreur la table existe deja
+php artisan migrate:rollback

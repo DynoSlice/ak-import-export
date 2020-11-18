@@ -285,7 +285,7 @@
                             </tr><tr><td valign="top" class="rnb-container-padding" bgcolor="" style="background-color: ;" align="left">
                                     <table width="100%" cellpadding="0" border="0" align="center" cellspacing="0"><tbody><tr><td valign="top" align="center">
                                                 <table cellpadding="0" border="0" align="center" cellspacing="0" class="logo-img-center"><tbody><tr><td valign="middle" align="center">
-                                                            <div style="border-top:0px None #000;border-right:0px None #000;border-bottom:0px None #000;border-left:0px None #000;display:inline-block; " cellspacing="0" cellpadding="0" border="0"><div><img width="250" vspace="0" hspace="0" border="0" alt="Sendinblue" style="float: left;max-width:250px;display:block;" class="rnb-logo-img" src="/img/logoAKnoir.png"></div></div></td>
+                                                            <div style="border-top:0px None #000;border-right:0px None #000;border-bottom:0px None #000;border-left:0px None #000;display:inline-block; " cellspacing="0" cellpadding="0" border="0"><div><img width="250" vspace="0" hspace="0" border="0" alt="Sendinblue" style="float: left;max-width:250px;display:block;" class="rnb-logo-img" src="https://www.ak-import-export.com/img/logoAknoir.png"></div></div></td>
                                                     </tr></tbody></table><table cellpadding="0" border="0" align="center" cellspacing="0" class="logo-img-center"></table></td>
                                         </tr></tbody></table></td>
                             </tr><tr><td height="30" style="font-size:1px; line-height:1px;"> </td>
@@ -528,7 +528,7 @@ Vous serez bientôt contacté par un de nos commercial</span></div>
                                     <table width="100%" border="0" cellpadding="0" cellspacing="0" class="rnb-columns-container"><tbody><tr><td class="rnb-force-col img-block-center" valign="top" width="180" style="padding-right: 20px;">
 
                                                 <table border="0" valign="top" cellspacing="0" cellpadding="0" align="left" class="rnb-col-2-noborder-onright" width="180"><tbody><tr><td width="100%" class="img-block-center" valign="top" align="center">
-                                                <div style="border-top:0px none #000;border-right:0px None #000;border-bottom:0px None #000;border-left:0px None #000;display:inline-block;"><div><img alt="" border="0" hspace="0" vspace="0" width="125" style="vertical-align:top; float: left; width:125px;max-width:125px !important; " class="rnb-col-2-img-side-xs" src="/img/logoAK.png"></div><div style="clear:both;"></div></div></td>
+                                                <div style="border-top:0px none #000;border-right:0px None #000;border-bottom:0px None #000;border-left:0px None #000;display:inline-block;"><div><img alt="" border="0" hspace="0" vspace="0" width="125" style="vertical-align:top; float: left; width:125px;max-width:125px !important; " class="rnb-col-2-img-side-xs" src="https://www.ak-import-export.com/img/logoAK.png"></div><div style="clear:both;"></div></div></td>
                                                     </tr></tbody></table></td><td class="rnb-force-col" valign="top">
 
                                                 <table border="0" valign="top" cellspacing="0" cellpadding="0" width="350" align="left" class="rnb-last-col-2"><tbody><tr><td style="font-size:24px; font-family:'Sanchez','Arial',Helvetica,sans-serif; color:#3c4858; text-align:center;">
@@ -563,7 +563,7 @@ Vous serez bientôt contacté par un de nos commercial</span></div>
                                                             <table cellpadding="0" border="0" align="left" cellspacing="0" class="rnb-btn-col-content"><tbody><tr><td valign="middle" align="left" style="font-size:14px; font-family:'Montserrat','Arial',Helvetica,sans-serif; color:#888888;" class="rnb-text-center">
                                                                         <div>AK Import-Export<br>
 Sig Madina<br>
-Conakry<br><a href="#" style="text-decoration: underline; color: #337ab7;">contact@company.com</a></div>
+Conakry<br><a href="#" style="text-decoration: underline; color: #337ab7;">service-clientele@ak-import-export.com</a></div>
                                                                     </td></tr></tbody></table></td>
                                                     </tr></tbody></table></td><td ng-if="item.text.align=='left'" class="rnb-force-col rnb-social-width" valign="top" style="mso-padding-alt: 0 20px 0 0; padding-right: 15px;">
 

@@ -14,13 +14,13 @@ class CreateCategoriesTable extends Migration
     public function up()
     {
         Schema::create('categories', function (Blueprint $table) {
+            $table->engine = 'InnoDB';
             $table->increments('id');
-            $table->integer('user_id');
             $table->text('nom_Categorie');
             $table->longText('description_Categorie');
             $table->timestamps();
-            //$table->integer('user_id')->unsigned();
-            $table->foreign('user_id')->references('id')->on('users')->ondelete('users'); 
+            $table->unsignedBigInteger('user_id');
+            $table->foreign('user_id')->references('id')->on('users');
         });
     }
 

@@ -14,7 +14,7 @@
     <title>Service Client AK import-Export</title>
 
     <!--====== ICON =======-->
-    <link rel="shortcut icon" type="image/png" href="/img/logoAK.png" />
+    <link rel="shortcut icon" type="image/png" href="/img/logoAK.png" width="70" height="70" />
 
     <!--====== STYLESHEETS ======-->
     <link rel="stylesheet" href="{{ asset('css/normalize.css')}}">

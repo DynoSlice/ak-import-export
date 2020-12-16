@@ -21,7 +21,7 @@
     <link rel="stylesheet" href="{{ asset('css/stellarnav.min.css')}}">
     <link rel="stylesheet" href="{{ asset('css/owl.carousel.css')}}">
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="{{ asset('css/font-awesome.min.css')}}" rel="stylesheet">
+    <link href="{{ asset('css/font-awesome.min.css')}}" rel="stylesheet preload" >
 
     <!--====== MAIN STYLESHEETS ======-->
     <link href="{{ asset('css/style.css')}}" rel="stylesheet">

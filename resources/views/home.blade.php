@@ -16,16 +16,16 @@
     <link rel="shortcut icon" type="image/png" href="/img/logoAK.png" />
 
     <!--====== STYLESHEETS ======-->
-    <link rel="stylesheet" href="{{ asset('css/normalize.css')}}">
-    <link rel="stylesheet" href="{{ asset('css/animate.css')}}">
-    <link rel="stylesheet" href="{{ asset('css/stellarnav.min.css')}}">
-    <link rel="stylesheet" href="{{ asset('css/owl.carousel.css')}}">
-    <link href="{{ asset('css/bootstrap.min.css')}}" rel="stylesheet">
-    <link href="{{ asset('css/font-awesome.min.css')}}" rel="stylesheet">
+    <link rel="preload" rel="stylesheet" href="{{ asset('css/normalize.css')}}">
+    <link rel="preload" rel="stylesheet" href="{{ asset('css/animate.css')}}">
+    <link rel="preload" rel="stylesheet" href="{{ asset('css/stellarnav.min.css')}}">
+    <link rel="preload" rel="stylesheet" href="{{ asset('css/owl.carousel.css')}}">
+    <link rel="preload" href="{{ asset('css/bootstrap.min.css')}}" rel="stylesheet">
+    <link rel="preload" href="{{ asset('css/font-awesome.min.css')}}" rel="stylesheet">
 
     <!--====== MAIN STYLESHEETS ======-->
-    <link href="{{ asset('css/style.css')}}" rel="stylesheet">
-    <link href="{{ asset('css/responsive.css')}}" rel="stylesheet">
+    <link rel="preload" href="{{ asset('css/style.css')}}" rel="stylesheet">
+    <link rel="preload" href="{{ asset('css/responsive.css')}}" rel="stylesheet">
 
     <script  rel="preload" defer src="{{ asset('js/vendor/modernizr-2.8.3.min.js')}}"></script>
 

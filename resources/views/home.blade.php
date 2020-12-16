@@ -22,6 +22,7 @@
     <link rel="stylesheet" href="{{ asset('css/owl.carousel.css')}}">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="{{ asset('css/font-awesome.min.css')}}" rel="stylesheet preload" >
+    <link href="{{ asset('css/fonts/fontawesome-webfont.woff2?v=4.6.3')}}" rel="stylesheet preload" >
 
     <!--====== MAIN STYLESHEETS ======-->
     <link href="{{ asset('css/style.css')}}" rel="stylesheet">

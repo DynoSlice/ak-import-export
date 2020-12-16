@@ -20,14 +20,14 @@
     <script rel="preload" defer src="/js/stellar.js"></script>
     <script rel="preload" defer src="/js/wow.min.js"></script>
     <script rel="preload" defer src="/js/stellarnav.min.js"></script>
-    <script rel="preload" defer src="/js/contact-form.js"></script>
+    {{-- <script rel="preload" defer src="/js/contact-form.js"></script> --}}
     <script rel="preload" defer src="/js/jquery.sticky.js"></script>
     <script rel="preload" defer src="/js/jquery.counterup.min.js"></script>
-    <script rel="preload" defer src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+    {{-- <script rel="preconnect" defer src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script> --}}
     <!--===== ACTIVE JS=====-->
     <script rel="preload" defer src="/js/main.js"></script>
-    <script rel="preload" defer type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBbtRphsSDPc0-N5CasZHsGHwd2yjB_c_k&sensor=false"></script>
-    <script rel="preload" defer src="/js/maps.active.js"></script>
+    {{-- <script rel="preload" defer type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBbtRphsSDPc0-N5CasZHsGHwd2yjB_c_k&sensor=false"></script> --}}
+    {{-- <script rel="preload" defer src="/js/maps.active.js"></script> --}}
 
     <script rel="preload" defer type="text/javascript">
         $( function(){
@@ -37,7 +37,7 @@
             $('#modalerror').modal();
         })
     </script>
-    <script rel="preload" defer type="text/javascript">
+    <script type="text/javascript">
     
         var map = L.map('mapid', { fadeAnimation: false }).setView([9.541518, -13.675301], 18);
         

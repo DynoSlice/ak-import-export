@@ -32,7 +32,7 @@
 
     
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script rel="preload" async src="https://www.googletagmanager.com/gtag/js?id=UA-169344018-2"></script>
+    <script rel="preconnect" async src="https://www.googletagmanager.com/gtag/js?id=UA-169344018-2"></script>
     <script rel="preload" async>
         function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","UA-169344018-2");
     </script>

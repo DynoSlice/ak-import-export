@@ -139,7 +139,7 @@
                 <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
                     <div class="single-blog wow fadeInUp" data-wow-delay="0.3s">
                         <div class="blog-image">
-                            <img src="/img/acceuil/card/card_plane.jpg"  width="560" height="380" alt="matériel ak import-export">
+                            <img src="/img/acceuil/card/card_plane.svg"  width="560" height="380" alt="matériel ak import-export">
                         </div>
                         <div class="blog-details text-center">
                             <div class="blog-meta"><a href="#"><i class="fa fa-tags"></i></a></div>
@@ -152,7 +152,7 @@
                 <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
                     <div class="single-blog wow fadeInUp" data-wow-delay="0.4s">
                         <div class="blog-image">
-                            <img src="/img/acceuil/card/card_camion.jpg" width="560" height="380" alt="camion ak import-export">
+                            <img src="/img/acceuil/card/card_camion.svg" width="560" height="380" alt="camion ak import-export">
                         </div>
                         <div class="blog-details text-center">
                             <div class="blog-meta"><a href="#"><i class="fa fa-truck"></i></a></div>
@@ -172,7 +172,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
-                    <img src="/img/acceuil/camion.jpg" width="360" height="480">
+                    <img src="/img/acceuil/camion.svg" width="360" height="480">
                     {{-- <div class="quote-form-area wow fadeIn">
                         <h3>Contacter nous</h3>
                         <form class="quote-form" action="#">

@@ -88,7 +88,7 @@
                 <div class="col-md-6 col-lg-6 col-sm-12 col-xs-12">
                     <div class="footer-copyright wow fadeIn">
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        <a href="#">Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved</a>
+                        <a href="#">Copyright &copy; 2020 All rights reserved</a>
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                     </div>
                 </div>

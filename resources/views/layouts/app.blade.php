@@ -17,7 +17,7 @@
     <script rel="preload" defer src="/js/vendor/jquery-migrate-1.2.1.min.js"></script>
     <script rel="preload" defer src="/js/vendor/jquery.appear.js"></script>
     <script rel="preload" defer src="/js/owl.carousel.min.js"></script>
-    <script rel="preload" defer src="/js/stellar.js"></script>
+    <script defer src="/js/stellar.js"></script>
     <script rel="preload" defer src="/js/wow.min.js"></script>
     <script rel="preload" defer src="/js/stellarnav.min.js"></script>
     {{-- <script rel="preload" defer src="/js/contact-form.js"></script> --}}

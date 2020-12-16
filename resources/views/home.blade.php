@@ -140,7 +140,7 @@
                 <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
                     <div class="single-blog wow fadeInUp" data-wow-delay="0.3s">
                         <div class="blog-image">
-                            <img src="/img/acceuil/card/card_plane.svg"  width="560" height="380" alt="matériel ak import-export">
+                            <img src="/img/acceuil/card/card_plane.svg" loading="lazy" width="560" height="380" alt="matériel ak import-export">
                         </div>
                         <div class="blog-details text-center">
                             <div class="blog-meta"><a href="#"><i class="fa fa-tags"></i></a></div>
@@ -153,7 +153,7 @@
                 <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
                     <div class="single-blog wow fadeInUp" data-wow-delay="0.4s">
                         <div class="blog-image">
-                            <img src="/img/acceuil/card/card_camion.svg" width="560" height="380" alt="camion ak import-export">
+                            <img src="/img/acceuil/card/card_camion.svg" loading="lazy"  width="560" height="380" alt="camion ak import-export">
                         </div>
                         <div class="blog-details text-center">
                             <div class="blog-meta"><a href="#"><i class="fa fa-truck"></i></a></div>

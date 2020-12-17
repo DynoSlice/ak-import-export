@@ -16,7 +16,7 @@
     <link rel="shortcut icon" type="image/png" href="/img/logoAK.png" />
 
     <!--====== STYLESHEETS ======-->
-    <link rel="stylesheet" href="{{ asset('css/normalize.css')}}">
+    <link rel="preload" rel="stylesheet" href="{{ asset('css/normalize.css')}}">
     <link rel="stylesheet" href="{{ asset('css/animate.css')}}">
     <link rel="stylesheet" href="{{ asset('css/stellarnav.min.css')}}">
     <link rel="stylesheet" href="{{ asset('css/owl.carousel.css')}}">
@@ -30,7 +30,7 @@
     <script async  src="{{ asset('js/vendor/modernizr-2.8.3.min.js')}}"></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-169344018-2"></script>
+    <script rel="preload" async src="https://www.googletagmanager.com/gtag/js?id=UA-169344018-2"></script>
     <script async>
         function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","UA-169344018-2");
     </script>
@@ -139,7 +139,7 @@
                 <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
                     <div class="single-blog wow fadeInUp" data-wow-delay="0.3s">
                         <div class="blog-image">
-                            <img src="/img/acceuil/card/card_plane.svg" loading="lazy" width="560" height="380" alt="matériel ak import-export">
+                            <img src="/img/acceuil/card/card_plane.webp" loading="lazy" width="560" height="380" alt="matériel ak import-export">
                         </div>
                         <div class="blog-details text-center">
                             <div class="blog-meta"><a href="#"><i class="fa fa-tags"></i></a></div>
@@ -152,7 +152,7 @@
                 <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
                     <div class="single-blog wow fadeInUp" data-wow-delay="0.4s">
                         <div class="blog-image">
-                            <img src="/img/acceuil/card/card_camion.svg" loading="lazy"  width="560" height="380" alt="camion ak import-export">
+                            <img src="/img/acceuil/card/card_camion.webp" loading="lazy"  width="560" height="380" alt="camion ak import-export">
                         </div>
                         <div class="blog-details text-center">
                             <div class="blog-meta"><a href="#"><i class="fa fa-truck"></i></a></div>
@@ -172,7 +172,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
-                    <img src="/img/acceuil/camion.svg" width="360" height="480">
+                    <img src="/img/acceuil/camion.webp" width="360" height="480">
                     {{-- <div class="quote-form-area wow fadeIn">
                         <h3>Contacter nous</h3>
                         <form class="quote-form" action="#">

@@ -825,16 +825,16 @@ ul#nav li ul a {
     animation: 1s ease 1s normal both 1 running fadeInUp;
 }
 .slider-bg-one {
-    background: url(/img/acceuil/slider/slide_port.svg) no-repeat scroll center center/cover;
+    background: url(/img/acceuil/slider/slide_port.webp) no-repeat scroll center center/cover;
 }
 .slider-bg-two {
-    background: url(/img/acceuil/slider/slide_camion2.svg) no-repeat scroll center center/cover;
+    background: url(/img/acceuil/slider/slide_camion2.webp) no-repeat scroll center center/cover;
 }
 .slider-bg-three {
     background: url(/img/acceuil/slider/slide_avion.svg) no-repeat scroll center center/cover;
 }
 .slider-bg-four {
-    background: url(/img/acceuil/slider/slide_container.svg) no-repeat scroll center center/cover;
+    background: url(/img/acceuil/slider/slide_container.webp) no-repeat scroll center center/cover;
 }
 .welcome-slider-area.owl-carousel .owl-nav > div {
     background: #337ab7 none repeat scroll 0 0;
@@ -1022,7 +1022,7 @@ bouton_blue:focus {
     width: 50px;
 }
 .service-catalouge-content-area {
-    background: rgba(0, 0, 0, 0) url(/img/acceuil/service/service-cargo-bg.svg) no-repeat scroll center center/contain;
+    background: rgba(0, 0, 0, 0) url(/img/acceuil/service/service-cargo-bg.webp) no-repeat scroll center center/contain;
     position: relative;
 }
 .catalouge-content {
@@ -1068,7 +1068,7 @@ bouton_blue:focus {
     position: relative;
 }
 .service-bottom-area-bg {
-    background: rgba(0, 0, 0, 0) url(/img/acceuil/service/service_container.svg) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url(/img/acceuil/service/service_container.webp) repeat scroll 0 0;
     height: 100%;
     left: 0;
     position: absolute;
@@ -1641,7 +1641,7 @@ bouton_blue:focus {
     z-index: 9;
 }
 .footer-area::after {
-    background: rgba(0, 0, 0, 0) url(/img/footer-map-bg.png) no-repeat scroll center center/90% auto;
+    background: rgba(0, 0, 0, 0) url(/img/footer-map-bg.webp) no-repeat scroll center center/90% auto;
     content: "";
     height: 100%;
     left: 0;

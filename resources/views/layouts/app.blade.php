@@ -17,17 +17,16 @@
     <script async src="/js/vendor/jquery-migrate-1.2.1.min.js"></script>
     <script async src="/js/vendor/jquery.appear.js"></script>
     <script async src="/js/owl.carousel.min.js"></script>
-    <script async src="/js/stellar.js"></script>
+    <script rel="preload" async src="/js/stellar.js"></script>
     <script async src="/js/wow.min.js"></script>
     <script async src="/js/stellarnav.min.js"></script>
-    <script async src="/js/contact-form.js"></script>
     <script async src="/js/jquery.sticky.js"></script>
     <script async src="/js/jquery.counterup.min.js"></script>
     <script async src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
     <!--===== ACTIVE JS=====-->
     <script async src="/js/main.js"></script>
-    <script async type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBbtRphsSDPc0-N5CasZHsGHwd2yjB_c_k&sensor=false"></script>
-    <script async src="/js/maps.active.js"></script>
+    {{-- <script async type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBbtRphsSDPc0-N5CasZHsGHwd2yjB_c_k&sensor=false"></script> --}}
+    {{-- <script async src="/js/maps.active.js"></script> --}}
 
     <script async type="text/javascript">
         $( function(){

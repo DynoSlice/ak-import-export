@@ -1,4 +1,4 @@
-/* @import url(https://fonts.googleapis.com/css?family=Roboto:400, 500, 500i, 700); */
+@import url('https://fonts.googleapis.com/css?family=Roboto:400, 500, 500i, 700');
 .alignleft {
     float: left;
     margin-right: 15px;
@@ -1184,7 +1184,7 @@ bouton_blue:focus {
     background: #f39c12 none repeat scroll 0 0;
 }
 .promo-top-area {
-    background: rgba(0, 0, 0, 0) url(/img/acceuil/service/service_transpallette.png) no-repeat scroll right 5% bottom 50%/40% auto;
+    background: rgba(0, 0, 0, 0) url(/img/acceuil/service/service_transpallette.webp) no-repeat scroll right 5% bottom 50%/40% auto;
 }
 .single-promo {
     margin-bottom: 50px;

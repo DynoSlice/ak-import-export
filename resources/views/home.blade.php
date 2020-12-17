@@ -16,7 +16,7 @@
     <link rel="shortcut icon" type="image/png" href="/img/logoAK.png" />
 
     <!--====== STYLESHEETS ======-->
-    <link rel="preload" rel="stylesheet" href="{{ asset('css/normalize.css')}}">
+    <link rel="stylesheet" href="{{ asset('css/normalize.css')}}">
     <link rel="stylesheet" href="{{ asset('css/animate.css')}}">
     <link rel="stylesheet" href="{{ asset('css/stellarnav.min.css')}}">
     <link rel="stylesheet" href="{{ asset('css/owl.carousel.css')}}">
@@ -27,7 +27,7 @@
     <link href="{{ asset('css/style.css')}}" rel="stylesheet">
     <link href="{{ asset('css/responsive.css')}}" rel="stylesheet">
 
-    <script async  src="{{ asset('js/vendor/modernizr-2.8.3.min.js')}}"></script>
+    <script async src="{{ asset('js/vendor/modernizr-2.8.3.min.js')}}"></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script rel="preload" async src="https://www.googletagmanager.com/gtag/js?id=UA-169344018-2"></script>

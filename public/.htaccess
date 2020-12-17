@@ -19,7 +19,6 @@ ExpiresActive on
   # JavaScript
     ExpiresByType application/javascript  "access plus 365 days"
 
-
 # Compress HTML, CSS, JavaScript, Text, XML and fonts
   AddOutputFilterByType DEFLATE application/javascript
   AddOutputFilterByType DEFLATE application/rss+xml
@@ -36,6 +35,7 @@ ExpiresActive on
   AddOutputFilterByType DEFLATE font/otf
   AddOutputFilterByType DEFLATE font/ttf
   AddOutputFilterByType DEFLATE image/svg+xml
+   AddOutputFilterByType DEFLATE image/svg
   AddOutputFilterByType DEFLATE image/x-icon
   AddOutputFilterByType DEFLATE text/css
   AddOutputFilterByType DEFLATE text/html

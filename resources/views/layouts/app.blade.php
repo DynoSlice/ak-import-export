@@ -9,23 +9,27 @@
 
 
     <!--====== SCRIPTS JS ======-->
-    <script rel="preload" async src="/js/vendor/jquery-1.12.4.min.js"></script>
-    <script rel="preload" async src="/js/vendor/bootstrap.min.js"></script>
+    <script src="/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="/js/vendor/bootstrap.min.js"></script>
 
     <!--====== PLUGINS JS ======-->
-    <script rel="preload" async src="/js/vendor/jquery.easing.1.3.js"></script>
-    <script rel="preload" async src="/js/vendor/jquery-migrate-1.2.1.min.js"></script>
-    <script rel="preload" async src="/js/vendor/jquery.appear.js"></script>
-    <script rel="preload" async src="/js/owl.carousel.min.js"></script>
-    <script rel="preload" async src="/js/stellar.js"></script>
-    <script rel="preload" async src="/js/wow.min.js"></script>
-    <script rel="preload" async src="/js/stellarnav.min.js"></script>
-    <script rel="preload" async src="/js/jquery.sticky.js"></script>
-    <script rel="preload" async src="/js/jquery.counterup.min.js"></script>
+    <script async src="/js/vendor/jquery.easing.1.3.js"></script>
+    <script async src="/js/vendor/jquery-migrate-1.2.1.min.js"></script>
+    <script async src="/js/vendor/jquery.appear.js"></script>
+    <script async src="/js/owl.carousel.min.js"></script>
+    <script async src="/js/stellar.js"></script>
+    <script async src="/js/wow.min.js"></script>
+    <script async src="/js/stellarnav.min.js"></script>
+    <script async src="/js/contact-form.js"></script>
+    <script async src="/js/jquery.sticky.js"></script>
+    <script async src="/js/jquery.counterup.min.js"></script>
+    <script async src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
     <!--===== ACTIVE JS=====-->
-    <script rel="preload" async src="/js/main.js"></script>
+    <script async src="/js/main.js"></script>
+    <script async type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBbtRphsSDPc0-N5CasZHsGHwd2yjB_c_k&sensor=false"></script>
+    <script async src="/js/maps.active.js"></script>
 
-    <script rel="preload" async type="text/javascript">
+    <script async type="text/javascript">
         $( function(){
             $('#exampleModalCenter').modal();
         });

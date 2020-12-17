@@ -21,8 +21,7 @@
     <link rel="stylesheet" href="{{ asset('css/stellarnav.min.css')}}">
     <link rel="stylesheet" href="{{ asset('css/owl.carousel.css')}}">
     <link href="{{ asset('css/bootstrap.min.css')}}" rel="stylesheet">
-    <link href="{{ asset('css/font-awesome.min.css')}}" rel="stylesheet" >
-    <link href="{{ asset('css/fonts/fontawesome-webfont.woff2?v=4.6.3')}}" >
+    <link href="{{ asset('css/font-awesome.min.css')}}" rel="stylesheet">
 
     <!--====== MAIN STYLESHEETS ======-->
     <link href="{{ asset('css/style.css')}}" rel="stylesheet">

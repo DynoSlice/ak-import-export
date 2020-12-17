@@ -13,11 +13,11 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^ index.php [L] 
 
 ExpiresActive on
-    ExpiresDefault                        "access plus 7 days"
+    ExpiresDefault                        "access plus 365 days"
   # CSS
-    ExpiresByType text/css                "access plus 7 days"
+    ExpiresByType text/css                "access plus 365 days"
   # JavaScript
-    ExpiresByType application/javascript  "access plus 7 days"
+    ExpiresByType application/javascript  "access plus 365 days"
 
 
 # Compress HTML, CSS, JavaScript, Text, XML and fonts

@@ -20,19 +20,19 @@
     <link rel="stylesheet" href="{{ asset('css/animate.css')}}">
     <link rel="stylesheet" href="{{ asset('css/stellarnav.min.css')}}">
     <link rel="stylesheet" href="{{ asset('css/owl.carousel.css')}}">
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="{{ asset('css/font-awesome.min.css')}}" rel="stylesheet preload" media="all" >
-    <link href="{{ asset('css/fonts/fontawesome-webfont.woff2?v=4.6.3')}}" rel="preload" media="all">
+    <link href="{{ asset('css/bootstrap.min.css')}}" rel="stylesheet">
+    <link href="{{ asset('css/font-awesome.min.css')}}" rel="stylesheet" >
+    <link href="{{ asset('css/fonts/fontawesome-webfont.woff2?v=4.6.3')}}" >
 
     <!--====== MAIN STYLESHEETS ======-->
-    <link href="{{ asset('css/style.css')}}" rel="stylesheet" media="all">
-    <link href="{{ asset('css/responsive.css')}}" rel="stylesheet" media="all">
+    <link href="{{ asset('css/style.css')}}" rel="stylesheet">
+    <link href="{{ asset('css/responsive.css')}}" rel="stylesheet">
 
-    <script async  rel="preload" src="{{ asset('js/vendor/modernizr-2.8.3.min.js')}}"></script>
+    <script async  src="{{ asset('js/vendor/modernizr-2.8.3.min.js')}}"></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script  rel="preload"  async src="https://www.googletagmanager.com/gtag/js?id=UA-169344018-2"></script>
-    <script  rel="preload" async>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-169344018-2"></script>
+    <script async>
         function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","UA-169344018-2");
     </script>
     

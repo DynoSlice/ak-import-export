@@ -27,7 +27,7 @@
     <link href="{{ asset('css/style.css')}}" rel="stylesheet">
     <link href="{{ asset('css/responsive.css')}}" rel="stylesheet">
 
-    <script async src="{{ asset('js/vendor/modernizr-2.8.3.min.js')}}"></script>
+    <script src="{{ asset('js/vendor/modernizr-2.8.3.min.js')}}"></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script rel="preload" async src="https://www.googletagmanager.com/gtag/js?id=UA-169344018-2"></script>

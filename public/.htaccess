@@ -19,15 +19,15 @@ ExpiresActive on
   # JavaScript
     ExpiresByType application/javascript  "access plus 365 days"
     
-    ExpiresByType image/jpg "access plus 2592000 seconds"
-  	ExpiresByType image/jpeg "access plus 2592000 seconds"
-   	ExpiresByType image/png "access plus 2592000 seconds"
-   	ExpiresByType image/gif "access plus 2592000 seconds"
-    ExpiresByType image/svg "access plus 2592000 seconds"
-    ExpiresByType image/ico "access plus 2592000 seconds"
-   	ExpiresByType image/icon "access plus 2592000 seconds"
-   	ExpiresByType image/x-icon "access plus 2592000 seconds"
-    ExpiresByType image/webp "access plus 2592000 seconds"
+    ExpiresByType image/jpg "access plus 365 days"
+  	ExpiresByType image/jpeg "access plus 365 days"
+   	ExpiresByType image/png "access plus 365 days"
+   	ExpiresByType image/gif "access plus 365 days"
+    ExpiresByType image/svg "access plus 365 days"
+    ExpiresByType image/ico "access plus 365 days"
+   	ExpiresByType image/icon "access plus 365 days"
+   	ExpiresByType image/x-icon "access plus 365 days"
+    ExpiresByType image/webp "access plus 365 days"
 
 # Compress HTML, CSS, JavaScript, Text, XML and fonts
   AddOutputFilterByType DEFLATE application/javascript

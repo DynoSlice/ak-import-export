@@ -205,4 +205,23 @@
     </div>
   </div>
 @endif
+
+<script type="text/javascript">
+    
+    var map = L.map('mapid', { fadeAnimation: false }).setView([9.541518, -13.675301], 18);
+    
+    L.tileLayer('http://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: 'Map data &copy; <a href="http://openstreetmap.org/">OpenStreetMap</a> contributors',
+                maxZoom: 20, minZoom: 0
+            }).addTo(map);
+    
+    
+         
+    
+    L.marker([9.541518, -13.675301]).addTo(map)
+        .bindPopup('<a style="color:black" href="">AK Import-Export</a>')
+        .openPopup();
+    
+    </script>
+
 @endsection

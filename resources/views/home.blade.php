@@ -24,10 +24,10 @@
     <link rel="preload" href="{{ asset('css/font-awesome.min.css')}}" as="style" onload="this.rel='stylesheet'">
 
     <!--====== MAIN STYLESHEETS ======-->
-    <link href="{{ asset('css/style.css')}}" rel="stylesheet">
-    <link href="{{ asset('css/responsive.css')}}" rel="stylesheet">
+    <link rel="preload" href="{{ asset('css/style.css')}}" as="style" onload="this.rel='stylesheet'">
+    <link rel="preload" href="{{ asset('css/responsive.css')}}" as="style" onload="this.rel='stylesheet'">
 
-    <script src="{{ asset('js/vendor/modernizr-2.8.3.min.js')}}"></script>
+    <script async src="{{ asset('js/vendor/modernizr-2.8.3.min.js')}}"></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script rel="preload" async src="https://www.googletagmanager.com/gtag/js?id=UA-169344018-2"></script>

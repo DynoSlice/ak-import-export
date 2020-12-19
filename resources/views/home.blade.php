@@ -16,12 +16,12 @@
     <link rel="shortcut icon" type="image/png" href="/img/logoAK.png" />
 
     <!--====== STYLESHEETS ======-->
-    <link rel="stylesheet" href="{{ asset('css/normalize.css')}}">
-    <link rel="stylesheet" href="{{ asset('css/animate.css')}}">
-    <link rel="stylesheet" href="{{ asset('css/stellarnav.min.css')}}">
-    <link rel="stylesheet" href="{{ asset('css/owl.carousel.css')}}">
-    <link href="{{ asset('css/bootstrap.min.css')}}" rel="stylesheet" media="screen">
-    <link href="{{ asset('css/font-awesome.min.css')}}" rel="stylesheet">
+    <link rel="preload" rel="stylesheet preload" href="{{ asset('css/normalize.css')}}" as="style" onload="this.rel='stylesheet'">
+    <link rel="preload" rel="stylesheet preload" href="{{ asset('css/animate.css')}}" as="style" onload="this.rel='stylesheet'">
+    <link rel="preload" rel="stylesheet preload" href="{{ asset('css/stellarnav.min.css')}}" as="style" onload="this.rel='stylesheet'">
+    <link rel="preload" rel="stylesheet preload" href="{{ asset('css/owl.carousel.css')}}" as="style" onload="this.rel='stylesheet'">
+    <link rel="preload" href="{{ asset('css/bootstrap.min.css')}}" as="style" onload="this.rel='stylesheet'" media="screen">
+    <link rel="preload" href="{{ asset('css/font-awesome.min.css')}}" as="style" onload="this.rel='stylesheet'">
 
     <!--====== MAIN STYLESHEETS ======-->
     <link href="{{ asset('css/style.css')}}" rel="stylesheet">

@@ -36,6 +36,8 @@
         $( function(){
             $('#modalerror').modal();
         })
+
+        document.addEventListener('touchstart', onTouchStart, {passive: true});
     </script>
     
         

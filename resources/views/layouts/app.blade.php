@@ -22,7 +22,7 @@
     <script   src="/js/wow.min.js"></script>
     <script   src="/js/stellarnav.min.js"></script>
     <script   src="/js/jquery.sticky.js"></script>
-    <script async  src="/js/jquery.counterup.min.js"></script>
+    <script  src="/js/jquery.counterup.min.js"></script>
     {{-- <script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script> --}}
     <!--===== ACTIVE JS=====-->
     <script async src="/js/main.js"></script>

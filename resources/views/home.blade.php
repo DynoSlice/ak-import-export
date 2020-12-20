@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Ak import-Export est une entreprise spécialisée dans le transport, vente de marchandises en guinée" />
 
-    
+
 
     <!--====== Titre de la page ======-->
     <title>AK import-Export - découvrez notre gamme de services pour particuliers ou professionnels</title>
@@ -27,6 +27,19 @@
     <link rel="preload" href="{{ asset('css/style.css')}}" as="style" onload="this.rel='stylesheet'">
     <link rel="preload" href="{{ asset('css/responsive.css')}}" as="style" onload="this.rel='stylesheet'">
 
+    {{-- Pour firefox --}}
+    <link  rel="stylesheet" href="{{ asset('css/normalize.css')}}" >
+    <link  rel="stylesheet" href="{{ asset('css/animate.css')}}"  >
+    <link  rel="stylesheet" href="{{ asset('css/stellarnav.min.css')}}" >
+    <link  rel="stylesheet" href="{{ asset('css/owl.carousel.css')}}"  >
+    <link  rel="stylesheet" href="{{ asset('css/bootstrap.min.css')}}"  media="screen">
+    <link  rel="stylesheet" href="{{ asset('css/font-awesome.min.css')}}" >
+
+    <link rel="stylesheet" href="{{ asset('css/style.css')}}" >
+    <link rel="stylesheet" href="{{ asset('css/responsive.css')}}">
+    {{-- fin firefox --}}
+
+
     <script async src="{{ asset('js/vendor/modernizr-2.8.3.min.js')}}"></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -34,7 +47,7 @@
     <script async>
         function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","UA-169344018-2");
     </script>
-    
+
 </head>
 
 <body class="home-one">
@@ -243,7 +256,7 @@
                             <h2>Nous proposons une solution logistique rapide et puissante</h2>
                             <p>AK c’est surtout <b> un service sur mesure </b> et adapté à n’importe quelle problématique client, le service de livraison de grosse marchandise la plus rapide de Guinée.</p>
                             <a href="{{url('nos-service-guinee')}}">Lire la suite <i class="fa fa-angle-right"></i></a>
-                           
+
                         </div>
                     </div>
                     <div class="col-md-8 col-lg-8 col-sm-12 col-xs-12">
@@ -368,12 +381,12 @@
                 </div>
             </div>
         </div>
-        
+
     </section>
     <!--PROMO AREA END-->
 
     <!--TESTMONIAL AREA -->
-    
+
     <!--TESTMONIAL AREA END -->
 
 @endsection

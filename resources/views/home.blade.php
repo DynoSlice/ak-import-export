@@ -185,7 +185,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12">
-                    <img src="/img/acceuil/camion.webp" width="360" height="480">
+                    <img src="/img/acceuil/camion.webp" width="360" height="480" alt="Camion ak import export">
                     {{-- <div class="quote-form-area wow fadeIn">
                         <h3>Contacter nous</h3>
                         <form class="quote-form" action="#">

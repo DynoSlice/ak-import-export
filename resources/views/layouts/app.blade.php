@@ -28,17 +28,6 @@
     <script async src="/js/main.js"></script>
     {{-- <script async type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBbtRphsSDPc0-N5CasZHsGHwd2yjB_c_k&sensor=false"></script> --}}
     {{-- <script async src="/js/maps.active.js"></script> --}}
-
-    <script  type="text/javascript">
-        $( function(){
-            $('#exampleModalCenter').modal();
-        });
-        $( function(){
-            $('#modalerror').modal();
-        })
-
-        // document.addEventListener('touchstart', onTouchStart, {passive: true});
-    </script>
     
         
 </body>

@@ -205,7 +205,7 @@
     </div>
   </div>
 @endif
-
+{{-- <script  src="/js/jquery.counterup.min.js"></script> --}}
 <script type="text/javascript">
     
     var map = L.map('mapid', { fadeAnimation: false }).setView([9.541518, -13.675301], 18);
@@ -222,6 +222,16 @@
         .bindPopup('<a style="color:black" href="">AK Import-Export</a>')
         .openPopup();
     
+    </script>
+    <script  type="text/javascript">
+        $( function(){
+            $('#exampleModalCenter').modal();
+        });
+        $( function(){
+            $('#modalerror').modal();
+        })
+
+        // document.addEventListener('touchstart', onTouchStart, {passive: true});
     </script>
 
 @endsection

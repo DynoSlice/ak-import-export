@@ -21,6 +21,7 @@
     <link rel="preload" rel="stylesheet preload" href="{{ asset('css/stellarnav.min.css')}}" as="style" onload="this.rel='stylesheet'">
     <link rel="preload" rel="stylesheet preload" href="{{ asset('css/owl.carousel.css')}}" as="style" onload="this.rel='stylesheet'">
     <link rel="preload" href="{{ asset('css/bootstrap.min.css')}}" as="style" onload="this.rel='stylesheet'" media="screen">
+    <link rel="preload" crossorigin  href="{{ asset('css//fonts/fontawesome-webfont.woff2?v=4.6.3')}}" as="style" onload="this.rel='stylesheet'">
     <link rel="preload" href="{{ asset('css/font-awesome.min.css')}}" as="style" onload="this.rel='stylesheet'">
 
     <!--====== MAIN STYLESHEETS ======-->
